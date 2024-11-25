@@ -11,5 +11,5 @@ compiled_raycast_swift
 
 # misc
 .DS_Store
-.venv
+/assets/.venv
 node_modules
