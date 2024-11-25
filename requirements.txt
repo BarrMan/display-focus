@@ -1,0 +1,4 @@
+# pyobjc>=9.2
+pyobjc-framework-Cocoa>=9.2  # For AppKit
+pyobjc-framework-Quartz>=9.2  # For Quartz
+PyObjC
